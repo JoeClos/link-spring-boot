@@ -1,0 +1,6 @@
+2022-01-11 22:24:19 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "LINK[*]"; SQL statement:
+LINK [42000-200]
+2022-01-11 22:26:05 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "DESCRIPTION" not found; SQL statement:
+SELECT * FROM DESCRIPTION [42102-200]
